@@ -1,6 +1,7 @@
+
+![share-image-inmersion-datos 1695062564](https://github.com/Wanves/InmersionAluraLatamDatos/assets/107213869/01105385-ea4b-46d4-8fe8-5fcb77b4744e)
 # InmersionAluraLatamDatos
 InmersionAluraLatamDatos
-![share-image-inmersion-datos 1695062564](https://github.com/Wanves/InmersionAluraLatamDatos/assets/107213869/01105385-ea4b-46d4-8fe8-5fcb77b4744e)
 La inmersión de datos, en el contexto de la ciencia de datos, se refiere al proceso de sumergirse profundamente en un conjunto de datos para comprender, analizar y extraer información relevante y conocimientos a partir de ellos. Implica una serie de pasos y actividades que permiten a los científicos de datos explorar, visualizar, limpiar y modelar los datos con el objetivo de obtener información valiosa y tomar decisiones fundamentadas. A continuación, se describen algunos de los aspectos clave de una inmersión de datos en ciencia de datos:
 
 1. Recopilación de datos: El primer paso suele ser la recopilación de datos de diversas fuentes, que pueden incluir bases de datos, archivos, sensores, redes sociales, sitios web, encuestas, etc.
